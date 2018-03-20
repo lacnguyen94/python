@@ -1,0 +1,65 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 950px;
+ background-color: #2192f3;
+ margin: 0px auto;
+}
+#header{
+ height: 150px;
+ width: 420px;
+
+ background-color: #2192f3;
+ display: inline-block;
+}
+#header2{
+ height: 150px;
+ width: 420px;
+ background-color: 2192f3;
+ vertical-align: top;
+ display: inline-block;
+}
+#about{
+ height: 70px;
+ width: 900px;
+ background-color: #036ff4;
+ display: inline-block;
+}
+
+#Docs{
+ height: 200px;
+ width: 300px;
+ background-color: 2192f3;
+ display: inline-block;
+}
+
+#Firstappering{
+ height: 200px;
+ width: 500px;
+ background-color: 2192f3;
+ vertical-align: top;
+ display: inline-block;
+}
+
+#GetttingStarted{
+ height: 200px;
+ width: 420px;
+ background-color: white;
+ display: inline-block;
+}
+
+#Applicattions{
+ height: 200px;
+ width: 420px;
+ background-color: white;
+ vertical-align: top;
+ display: inline-block;
+}
+
+#Help{
+ height: 100px;
+ width: 900px;
+ background-color: 2192f3;
+}
